@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @marvan51
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m to Brasil @marvan51 pt-Br
+- 👀 Estou interessado em Linux, Docker compose,  HASS, IOT
+- 🌱 Atualmente estou aprendendo Esphome yaml
+- 💞️ Procuro colaborar em com minhas experiências em aplicar os códigos, reportando erros e acertos.
+- 📫 Como entrar em contato comigo, email: marvan51@gmail.com no assunto: Github - xxx
 
-<!---
-marvan51/marvan51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Olá, meu nome é Marcio Melo
 Tenho interesse em HASS.IO, LINUX, KODI, vários serviços e entretenimentos num único PC
 Atualmente tenho aprendido um pouco mais sobre  linux server, docker
